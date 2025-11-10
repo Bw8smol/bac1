@@ -3,8 +3,8 @@ const http = require('http');
 
 // Configura la IP y el PUERTO de tu servidor de Minecraft en MagmaNode
 // Asegúrate de usar la IP pública que te dio MagmaNode y el puerto correcto (ej: 25565)
-const MINECRAFT_SERVER_HOST = 'TU_IP_DE_MAGMANODE'; 
-const MINECRAFT_SERVER_PORT = 25565; // O el puerto específico de EaglerX si es diferente
+const MINECRAFT_SERVER_HOST = '144.76.58.217'; 
+const MINECRAFT_SERVER_PORT = 33534; // O el puerto específico de EaglerX si es diferente
 
 const PORT = process.env.PORT || 10000; // Render usa el puerto 10000 por defecto
 
